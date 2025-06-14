@@ -1,0 +1,102 @@
+{
+  "name": "Yantra Default List",
+  "timestamp": "2023-11-11T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://yantra.exchange/logo.png",
+  "keywords": ["yantra", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000023",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 168587773,
+      "logoURI": "https://yantra-assets.netlify.app/images/symbol/weth.png"
+    },
+    {
+      "name": "USDB",
+      "address": "0x4200000000000000000000000000000000000022",
+      "symbol": "USDB",
+      "decimals": 18,
+      "chainId": 168587773,
+      "logoURI": "https://yantra-assets.netlify.app/images/symbol/usdb.png"
+    },
+    {
+      "name": "Yantra Token",
+      "symbol": "Yantra",
+      "address": "0x8f3BeEf59556eA09483fE0224Dd062834969FBd0",
+      "chainId": 168587773,
+      "decimals": 18,
+      "logoURI": "https://yantra-assets.netlify.app/images/symbol/yantra.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.yantra.exchange/images/symbol/bnb.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.yantra.exchange/images/symbol/busd.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://yantra.exchange/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.yantra.exchange/images/symbol/wbtc.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.yantra.exchange/images/symbol/usdt.png"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://yantra.exchange/images/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0xFa60D973F7642B748046464e165A65B7323b0DEE",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://yantra.exchange/images/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "Test BUSD Token",
+      "symbol": "tBUSD",
+      "address": "0xaB1a4d4f1D656d2450692D237fdD6C7f9146e814",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://tokens.yantra.exchange/images/symbol/busd.png"
+    }
+  ]
+}

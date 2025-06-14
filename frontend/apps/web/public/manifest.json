@@ -1,0 +1,24 @@
+{
+  "short_name": "Yantra",
+  "name": "Yantra",
+  "description": "Farm YANTRA & xYANTRA with fsNFT LP Positions",
+  "homepage_url": "https://yantra.excnahge",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#717171",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "16x16"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "iconPath": "/images/yantra.svg"
+}
